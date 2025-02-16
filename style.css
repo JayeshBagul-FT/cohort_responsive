@@ -59,19 +59,19 @@ section p {
 .view-2 .marquee::before {
   content: "";
   position: absolute;
-  height: 100px;
+  height: 150px;
   width: 50%;
   right: 0%;
-  top: 3rem;
+  top: 2rem;
   background-image: linear-gradient(to left, #0e0e0e, transparent);
 }
 .view-2 .marquee::after {
   content: "";
   position: absolute;
-  height: 80px;
+  height: 150px;
   width: 50%;
   left: 0%;
-  top: 3rem;
+  top: 2rem;
   padding: 0%;
   margin: 0%;
   background-image: linear-gradient(to right, #0e0e0e, transparent);
